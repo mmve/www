@@ -47,7 +47,7 @@ sup {
 }
 
 .hero-background {
-  background-image: url('/img/image3.jpg');
+  background-image: url('/2025/img/image3.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -65,7 +65,7 @@ sup {
 
 @media screen and (max-width: 1024px) {
   .hero-background {
-    background-image: url('/img/image3.jpg');
+    background-image: url('/2025/img/image3.jpg');
   }
 
   .content figure {
