@@ -13,7 +13,9 @@ sup {
 }
 
 .logo {
-  font-family: 'Chakra Petch', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 750;
+  letter-spacing: -2.5px;
 }
 
 .has-separator-top {
@@ -47,7 +49,7 @@ sup {
 }
 
 .hero-background {
-  background-image: url('/2025/img/image3.jpg');
+  background-image: url('/2026/img/mmsys2026b.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -65,7 +67,7 @@ sup {
 
 @media screen and (max-width: 1024px) {
   .hero-background {
-    background-image: url('/2025/img/image3.jpg');
+    background-image: url('/2026/img/mmsys2026b.jpg');
   }
 
   .content figure {
@@ -118,7 +120,9 @@ sup {
 .session-title span:last-child {
   font-weight: bold;
   margin-left: .25em;
-  font-family: 'Chakra Petch', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 750;
+  letter-spacin: -2.5px;
   color: #00BCD4;
 }
 
