@@ -130,6 +130,10 @@ h5.logo, h6.logo {
   color: #00BCD4;
 }
 
+.session-title.session-break span:last-child {
+  color: #363636 !important;
+}
+
 p.chaired-by {
   font-size: 14pt;
   margin-left: 1em;
